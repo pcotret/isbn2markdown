@@ -50,3 +50,11 @@ python simpleimport.py pascal 9780470474242
 2. ISBN number.
 
 #### Output (mediawiki.txt):
+```
+| Cryptography Engineering : Design Principles And Practical Applications || Kohno , Tadayoshi || Wiley Pub., inc . || 2010 || [http://isbndb.com/search/all?query=9780470474242 9780470474242] || pascal
+|-
+```
+
+# References
+* https://pypi.python.org/pypi/isbntools
+* https://www.mediawiki.org/wiki/MediaWiki/fr

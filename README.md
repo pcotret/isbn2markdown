@@ -42,7 +42,7 @@ python listimport.py pascal
 ### Example
 #### Command:
 ```bash
-python simpleimport .py pascal 9780470474242
+python simpleimport.py pascal 9780470474242
 ```
 
 #### Parameters:

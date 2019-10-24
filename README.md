@@ -5,8 +5,8 @@ Scripts to import ISBN references in a Markdown-like syntax. Two short tutorials
 
 # Prerequisites
 Tested on an Ubuntu machine
-1. `sudo apt-get install python-pip`
-2. `sudo pip install isbntools`
+1. `sudo apt-get install python3-pip`
+2. `sudo pip3 install isbnlib`
 
 # Tutorials
 ## Importing from a list
@@ -23,7 +23,7 @@ Tested on an Ubuntu machine
 
 #### Command (parameter after the Python script is the input file):
 ```bash
-python listimport.py input.txt
+python3 listimport.py input.txt
 ```
 ## Importing a single book
 ### Prerequisites
@@ -33,11 +33,11 @@ python listimport.py input.txt
 ### Example
 #### Command:
 ```bash
-python simpleimport.py 9780470474242
+python3 simpleimport.py 9780470474242
 ```
 
 #### Parameters:
 1. ISBN number.
 
 # References
-* https://pypi.python.org/pypi/isbntools
+* https://pypi.org/project/isbnlib/
